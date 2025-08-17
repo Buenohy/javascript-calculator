@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="#user-content--descrição">Leia em Português</a>
+  <a href="#-descrição">Leia em Português</a>
 </p>
 
 # JavaScript Calculator
